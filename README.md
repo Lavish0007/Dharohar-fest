@@ -33,16 +33,16 @@ Enjoy the Dharohar Fest experience and let the celebrations begin!
 
 # Snapshot Of the Project
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20130315.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20130315.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161517.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161517.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161539.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161539.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161600.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161600.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161647.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161647.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161707.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161707.png)
 
-https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161740.png
+![image alt](https://github.com/Lavish0007/Dharohar-fest/blob/dfdb72984d616b623cbed1c120981958382627eb/Screenshot%202025-02-20%20161740.png)
